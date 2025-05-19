@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=FF4500&center=true&width=900&height=100&lines=𝐌𝐀𝐍𝐎𝐉%20-𝐀𝐈;%20𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘%20𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣%20𝗕𝗢𝗧;%20𝐂𝐑𝐄𝐀𝐓𝐄𝐃%20𝗕𝗬%20𝐌𝐀𝐍𝐎𝐉%20𝐗𝐑..💖)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=FF4500&center=true&width=900&height=100&lines=𝐌𝐀𝐍𝐎𝐉%20-𝐀𝐈;%20𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘%20𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣%20𝗕𝗢𝗧;%20𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗗%20𝗕𝗬%20𝐌𝐀𝐍𝐎𝐉%20𝐗𝐃..💖)
 
 [![Banner](https://files.catbox.moe/zxtxit.jpg)](https://github.com/MANOJXR/MANOJ-AI)
 
@@ -34,9 +34,8 @@
 ---
 <h3>🚀 Deploy to Koyeb</h3>
 <a href="https://app.koyeb.com/deploy?name=romek-xd-v2&repository=MANOJXR%2FMANOJ-AI&branch=main&builder=dockerfile&instance_type=free&env%5BSESSION_ID%5D=add your session id&env%5BAUTO_STATUS_REACT%5D=true&env%5BAUTO_READ_STATUS%5D=true&env%5BOWNER_NUMBER%5D=owner numbers" target="_blank">
-  <img alt="Deploy to Koyeb" src="https://img.shields.io/badge/🔥%20Deploy%20Now-ff0000?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000" width="1">
+  <img alt="Deploy to Koyeb" src="https://img.shields.io/badge/🔥%20Deploy%20Now-ff0000?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000" width="160">
 </a>
----
 
 ### 🚀 Deploy to Render
 [![Render Deploy](https://img.shields.io/badge/🚀%20Render%20Deploy-6a11cb?style=for-the-badge&logo=render&logoColor=white&labelColor=2575fc)](https://dashboard.render.com/)
