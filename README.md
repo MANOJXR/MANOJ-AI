@@ -19,7 +19,7 @@
 ---
 
 ### 2️⃣ (Pair Code)
-[![🔑 PAIR CODE LOGIN](https://img.shields.io/badge/🔑%20PAIR%20CODE%20LOGIN-1E90FF?style=for-the-badge&logo=link&logoColor=white)](https://romex-pair-code.onrender.com/?)
+[![🔑 PAIR CODE LOGIN](https://img.shields.io/badge/🔑%20PAIR%20CODE%20LOGIN-1E90FF?style=for-the-badge&logo=link&logoColor=white)](https://manoj-ai-session-web.onrender.com/?)
 
 ---
 
